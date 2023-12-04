@@ -1,4 +1,4 @@
 - 👋 Yo, I’m @Pstn4 !
 - 👀 I’m interested in Coding in Html,css,javascript,and BASIC.
 - 🌱 I’m currently learning python,and plan to do c and c++
--     I'm also plannign to post all my projects here
+-     I'm also planning to post all my projects here
